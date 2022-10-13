@@ -1,6 +1,5 @@
 /*
  * File: 1-insertion_sort_list.c
- * Auth: Brennan D Baraban
  */
 
 #include "sort.h"

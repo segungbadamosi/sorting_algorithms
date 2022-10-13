@@ -1,6 +1,5 @@
 /*
  * File: 101-cocktail_sort_list.c
- * Auth: Brennan D Baraban
  */
 
 #include "sort.h"

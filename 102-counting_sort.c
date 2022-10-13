@@ -1,6 +1,5 @@
 /*
  * File: 102-counting_sort.c
- * Auth: Brennan D Baraban
  */
 
 #include "sort.h"

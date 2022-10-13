@@ -1,6 +1,5 @@
 /*
  * File: 3-quick_sort.c
- * Auth: Brennan D Baraban
  */
 
 #include "sort.h"
